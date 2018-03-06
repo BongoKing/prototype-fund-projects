@@ -49,7 +49,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### Datenguide
 
 * An Improved API and Website for German Regional Statistics
-* Demo/Website: http://datengui.de
+* Demo/Website: http://datengui.de, api: https://api.datenguide.de
 * Code: https://github.com/datenguide
 * Status: Developing
 * Type: New Project
