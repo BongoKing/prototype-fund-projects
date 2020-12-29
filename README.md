@@ -9,7 +9,7 @@ If there are mistakes in this document, I am sorry. Please open [an issue](https
 ### Approxi
 
 * A Website to Guess Data Points
-* Demo/Website: http://proto.approxi.de
+* Demo/Website: http://proto.approxi.de (Link offline)
 * Code: ?
 * Status: Developing
 * Type: New Project
